@@ -1,6 +1,11 @@
-title: Minimal theme
+title: <p align="center"> A Parmesh Yadav </p>
 logo: /assets/img/logo.png
-description: Minimal is a theme for GitHub Pages.
-show_downloads: true
-google_analytics:
+
+description:
+  <p align="center">
+  <a href="https://github.com/parmesh10">GitHub</a>
+  <br>   
+  I'm loking for Data Science, Machine learning & NLP related jobs. 
+  <br>
+  </p>
 theme: jekyll-theme-minimal
